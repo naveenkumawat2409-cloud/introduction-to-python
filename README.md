@@ -102,7 +102,7 @@ print(type(bool1))
 <br>
 # 6.Binary
 <br>
-#bytes,bytearray,memporyview
+#bytes,bytearray,memoryview
 <br>
 byte1 = b"Naveen"
 <br>
