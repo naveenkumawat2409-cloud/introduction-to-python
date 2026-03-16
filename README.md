@@ -79,6 +79,34 @@ print(type(b2))
 b3 = (1,2,4,26,108,'Naveen') #2c.tuple
 <br>
 print(type(b3))
+<br>
+# 3.Dictionary
+<br>
+my_dictionary = {'name':'Naveen','age': 21,'city':'sikar'}
+<br>
+print(type(my_dictiony))
+<br>
+# 4.Set
+<br>
+my_sets = {1,2,4,46,'Naveen'}
+<br>
+print(type(my_sets))
+<br>
+# 5.Boolean
+<br>
+bool1 = true
+<br>
+bool2 = false
+<br>
+print(type(bool1))
+<br>
+# 6.Binary
+<br>
+#bytes,bytearray,memporyview
+<br>
+byte1 = b"Naveen"
+<br>
+print(type(byte1))
 
 
 
